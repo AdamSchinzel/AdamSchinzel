@@ -5,7 +5,7 @@
 - Exploring new technologies and developing software solutions
 - Azure Programming Student at Microsoft Student Trainee Centre
 - Working as a freelance software engineer
-- Learning more about Software Engineering and Mobile Development
+- Learning more about Mobile Development
 - Co-founder and CTO at Luftio
 
 ### 🛠 Tech stack
