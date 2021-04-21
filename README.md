@@ -11,5 +11,5 @@
 ### 🛠 Tech stack
 
 - Mobile: React Native
-- Web: React (Next.js, Gatby), Vue (Nuxt.js, Gridsome), Hugo
+- Web: React (Next.js, Gatsby), Vue (Nuxt.js, Gridsome), Hugo
 - Backend: Node.js, PostgreSQL, Docker
