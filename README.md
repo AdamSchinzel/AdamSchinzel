@@ -3,7 +3,7 @@
 ### 🧑🏻‍💻 About me
 
 - Exploring new technologies and developing software solutions
-- - Learning more about Mobile Development
+- Learning more about Mobile Development
 - Azure Programming Student at Microsoft Student Trainee Centre
 - Co-founder and CTO at Luftio
 - ex-IBM
