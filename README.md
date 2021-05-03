@@ -3,10 +3,10 @@
 ### 🧑🏻‍💻 About me
 
 - Exploring new technologies and developing software solutions
+- - Learning more about Mobile Development
 - Azure Programming Student at Microsoft Student Trainee Centre
-- Working as a freelance software engineer
-- Learning more about Mobile Development
 - Co-founder and CTO at Luftio
+- ex-IBM
 
 ### 🛠 Tech stack
 
