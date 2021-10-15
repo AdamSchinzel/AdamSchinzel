@@ -1,17 +1,14 @@
-## Hey there! I'm Adam 👋
+### Hello there 👋
+## I'm Adam Schinzel
 
-### 🧑🏻‍💻 About me
+Welcome to my Github! I am a software engineer and student from Brno, Czech republic. I mostly work on web and mobile development. Here you can see some personal projects I've built in the past. 
 
-- Exploring new technologies and developing software solutions
-- Co-founder and CTO at Luftio
-- Software Engineer at Team Solutions
-- ex-IBM
+I like exploring new technologies and developing software solutions.
 
-### 🛠 Tech stack
+### Languages and Tools
 
-- Mobile: React Native, Swift (iOS)
-- Desktop: Electron, Swift (macOS)
-- Web: React (Next.js, Gatsby), Vue (Nuxt.js, Gridsome), Hugo
+- React Native, Electron
+- Swift (macOS/iOS) 
+- Web: React (Next.js, Gatsby), Angular, Hugo
 - Backend: Node.js, PostgreSQL, Docker
 - Testing: Cypress, Jest, Detox
-- API: REST, GraphQL
