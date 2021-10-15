@@ -5,7 +5,6 @@
 - Exploring new technologies and developing software solutions
 - Co-founder and CTO at Luftio
 - Software Engineer at Team Solutions
-- Azure Programming Student at Microsoft Student Trainee Centre
 - ex-IBM
 
 ### 🛠 Tech stack
