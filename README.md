@@ -7,7 +7,7 @@ I like exploring new technologies and developing software solutions.
 
 ### Languages and Tools
 
-- React Native, Electron
+- React Native
 - Swift (macOS/iOS) 
 - Web: React (Next.js, Gatsby), Vue (Nuxt.js, Vuetify)
 - Backend: Node.js, PostgreSQL, Docker
