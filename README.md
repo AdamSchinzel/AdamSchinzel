@@ -9,6 +9,6 @@ I like exploring new technologies and developing software solutions.
 
 - React Native, Electron
 - Swift (macOS/iOS) 
-- Web: React (Next.js, Gatsby), Angular, Hugo
+- Web: React (Next.js, Gatsby), Vue (Nuxt.js, Vuetify)
 - Backend: Node.js, PostgreSQL, Docker
 - Testing: Cypress, Jest, Detox
