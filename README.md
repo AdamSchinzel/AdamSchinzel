@@ -10,7 +10,7 @@ I believe in the power of blockchain to transform and improve the lives of peopl
 ### Languages and Tools
 
 - Mobile: React Native, Swift (macOS/iOS)
-- Frontend: TypeScript, React (Next.js, Gatsby), Vue.js
+- Frontend: TypeScript, React (Next.js, Gatsby), Vue.js (Nuxt.js, Vuetify)
 - Backend: TypeScript/Node.js (Nest.js)
-- Storage: Postgres
-- Code Quality: Jest, Cypress, ESlint, Prettier
+- Storage: Postgres, Redis
+- Code Quality: Jest, Cypress, ESlint, Prettier, Storybook, Chromatic, Enzyme
