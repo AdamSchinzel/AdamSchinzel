@@ -1,9 +1,11 @@
 ### Hello there 👋
 ## I'm Adam Schinzel
 
-Welcome to my Github! I am a software engineer and student from Brno, Czech republic. I mostly work on web and mobile development. Here you can see some personal projects I've built in the past. 
+Welcome to my Github! I am a software engineer and student from Brno, Czech republic. Here you can see some personal projects I've built in the past. 
 
-I like exploring new technologies and developing software solutions.
+I mostly work on web and mobile development, but I'm currently exploring web3 and learning blockchain development that I would combine with my full-stack development to create dApps from scratch.
+
+I believe in the power of blockchain to transform and improve the lives of people around the world.
 
 ### Languages and Tools
 
