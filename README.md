@@ -9,9 +9,9 @@ I believe in the power of blockchain to transform and improve the lives of peopl
 
 ### Languages and Tools
 
-- Blockchain: Solidity, HardHat, OpenZeppelin, Foundry, Ethers.js
-- Mobile: React Native, Swift
-- Frontend: TypeScript, React (Next.js, Gatsby), Vue.js (Nuxt.js, Vuetify)
-- Backend: TypeScript/Node.js (Nest.js)
-- Storage: Postgres, Redis
+- Blockchain: Solidity, OpenZeppelin, Foundry, Ethers.js
+- Mobile: React Native
+- Frontend: TypeScript, React (Next.js, Gatsby)
+- Backend: TypeScript, Node.js (Nest.js)
+- Storage: Postgres, IPFS, Arwaeve
 - Code Quality: Jest, Cypress, ESlint, Prettier, Storybook, Chromatic, Enzyme
