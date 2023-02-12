@@ -22,3 +22,4 @@ I believe in the power of blockchain to transform and improve the lives of peopl
 - [Refork](https://marketplace.efkplatform.com/) - The bridge connecting ecology and blockchain
 - [Luftio](https://luftio.cz/) - Air quality monitoring system
 - [Covid portal](https://covid19-portal.netlify.app/) - Fresh news about the pandemic
+- [Maturita AI](https://maturita-ai.vercel.app/) - AI assistant for High school leaving examination in the Czech Republic
