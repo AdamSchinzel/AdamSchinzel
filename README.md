@@ -1,7 +1,7 @@
 ### Hello there 👋
 ## I'm Adam Schinzel
 
-Welcome to my GitHub! I'm 19 years old fullstack blockchain developer and student from Brno, Czech republic. I mostly work on web/mobile development, dApps and smart contracts (EVM chains). My major interest within Web3 is ZKP and privacy. I'm also currently learning Rust and Circom.
+Welcome to my GitHub! I'm 19 years old fullstack developer and student from Brno, Czech republic. I mostly work on web/mobile development, dApps and smart contracts (EVM chains). My major interest within Web3 is ZKP and privacy. I'm also currently learning Rust and Circom.
 
 I'm co-founder and CTO at [Decentree](https://decentree.com/), a blockchain development company where I'm leading a group of 5 engineers on client's and internal projects.
 
