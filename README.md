@@ -11,7 +11,7 @@ I believe in the power of blockchain and AI to transform and improve the lives o
 
 - Blockchain: Solidity, OpenZeppelin, Foundry, Ethers.js
 - Mobile: React Native
-- Frontend: TypeScript, React (Next.js, Gatsby)
+- Frontend: TypeScript, React (Next.js, Gatsby), Astro
 - Backend: TypeScript, Node.js (Nest.js)
 - Storage: Postgres, IPFS, Arwaeve
 - Code Quality: Jest, Cypress, Storybook
