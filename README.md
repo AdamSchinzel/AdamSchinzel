@@ -17,10 +17,11 @@ I believe in the power of blockchain and AI to transform and improve the lives o
 - Code Quality: Jest, Cypress, Storybook
 
 ### Projects
+- [DataCast](https://www.datacast.ai/) - Helping companies unlock business insights with AI-powered data analytics
+- - [Maturita AI](https://maturita-ai.vercel.app/) - AI assistant for High school leaving examination in the Czech Republic
 - [Lens App Stats](https://lens.decentree.com/) - Statistics for apps on the Lens Protocol
 - [Meetvers](https://app.meetvers.io/) - Find friends with similar Web3 footprint on the Lens Protocol
 - [Refork](https://marketplace.efkplatform.com/) - The bridge connecting ecology and blockchain
 - [Luftio](https://luftio.cz/) - Air quality monitoring system
 - [Covid portal](https://covid19-portal.netlify.app/) - Fresh news about the pandemic
-- [Maturita AI](https://maturita-ai.vercel.app/) - AI assistant for High school leaving examination in the Czech Republic
-- [DataCast](https://www.datacast.ai/) - Helping companies unlock business insights with AI-powered data analytics
+- [INDAB](https://app.indab.cz/) - Monitor and control your technical building equipment
