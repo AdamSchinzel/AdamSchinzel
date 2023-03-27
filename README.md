@@ -24,4 +24,4 @@ I believe in the power of blockchain and AI to transform and improve the lives o
 - [Refork](https://marketplace.efkplatform.com/) - The bridge connecting ecology and blockchain
 - [Luftio](https://luftio.cz/) - Air quality monitoring system
 - [Covid portal](https://covid19-portal.netlify.app/) - Fresh news about the pandemic
-- [INDAB](https://app.indab.cz/) - Monitor and control your technical building equipment
+- [INDAB](https://aplikace.indab.cz/) - Monitor and control your technical building equipment
