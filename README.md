@@ -7,7 +7,7 @@ I believe in the power of blockchain and AI to transform and improve the lives o
 
 ### Languages and Tools
 
-- Blockchain: Solidity, OpenZeppelin, Foundry, Ethers.js
+- Blockchain: Solidity, Foundry
 - Mobile: React Native
 - Frontend: TypeScript, React (Next.js, Gatsby), Astro
 - Backend: TypeScript, Node.js (Nest.js), Python
