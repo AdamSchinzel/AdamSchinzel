@@ -1,7 +1,7 @@
 ### Hello there 👋
 ## I'm Adam Schinzel
 
-Welcome to my GitHub! I mostly work on web and mobile apps.
+Welcome to my GitHub! I am a founder at [Advomate](https://advomate.cz/) (legal tech startup). and I mostly work on web and mobile apps.
 
 ### Languages and Tools
 
